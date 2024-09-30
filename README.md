@@ -2,8 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tek_kac?style=social)](https://twitter.com/intent/follow?screen_name=tek_kac)
 
-- 👀 I'm interested in applied ZK, onchain genArt and 
-- 🔭 I’m currently working on Starknet and [ReFi](github.com/Carbonable).
+- 👀 I'm interested in ZK, on-chain genArt and algorithms.
+- 🔭 I’m currently working on Starknet and [ReFi](https://github.com/Carbonable).
 - 👯 I’m looking to collaborate on CTFs and audits
 
 #### 📖 &nbsp;&nbsp; Last articles I wrote:
