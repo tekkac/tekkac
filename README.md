@@ -1,4 +1,4 @@
-## Ahoy 👋
+## Ahoy! 👋
 
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=tek_kac" target="_blank"><img src="https://img.shields.io/twitter/follow/tek_kac?style=social" /></a>
@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=tekkac" alt="visits" /> 
 </p>
 
+- 🛡️ Head of R&D of [Carbonable](https://www.carbonable.io/)
 - 👀 I'm interested in ZK, on-chain genArt and algorithms.
 - 🔭 I’m currently working on Starknet and [ReFi](https://github.com/Carbonable).
 - 👯 I’m looking to collaborate on CTFs and audits
