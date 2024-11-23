@@ -12,9 +12,8 @@
 - 👯 I’m looking to collaborate on CTFs and audits
 
 #### 📖 &nbsp;&nbsp; Last articles I wrote:
-  
+* [Zero-Knowledge Magic for Cheap](https://medium.com/@tekkac/zero-knowledge-magic-on-starknet-56ac2453234f)
 * [On-chain Abilities: Own Your NFTs](https://medium.com/@tekkac/on-chain-abilities-own-your-nfts-0feee018ff71)
-* [Why Carbonable opts for SFTs](https://carbonable.medium.com/why-carbonable-opts-for-semi-fungible-tokens-7014d0672964)
 * [SFTs are available on Starknet](https://carbonable.medium.com/semi-fungible-tokens-sfts-are-now-available-on-starknet-2e108594216f)
 
 <p align="center">
